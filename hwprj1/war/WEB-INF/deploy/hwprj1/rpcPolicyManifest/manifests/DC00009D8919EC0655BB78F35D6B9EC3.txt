@@ -1,0 +1,2 @@
+serviceClass: hwpkg.client.GreetingService
+path: 266DCC6F3B6CC7A8C4CC968D5ADAA3EE.gwt.rpc
